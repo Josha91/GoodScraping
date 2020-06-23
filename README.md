@@ -1,0 +1,2 @@
+# GoodScraping
+Goodreads webscraping
