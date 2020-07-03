@@ -6,4 +6,4 @@ In the example below, I collect information about Asterix & Obelix albums. The f
 
 ![Asterix ratings](https://github.com/Josha91/GoodScraping/blob/master/asterix_scores.png)
 
-The colors indicate different writer/artist duos. Different average scores in different eras are immediately apparent.
+The colors indicate different writer/artist duos. Different average scores in different eras are immediately apparent, as well as an overall declining trend. 
